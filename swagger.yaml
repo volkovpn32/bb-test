@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Swagger UI
   description: '
-  <a href="../../calendar_h.htm">Открыть страницу входа</a>
+  <a href="../../calendar_h.htm" rel="opener">Открыть страницу входа</a>
   <div class="login-form">
 <!-- Error Message -->
 <div style="width: 100%; max-width: 400px; margin: 20px auto; padding: 20px; background: #f8d7da; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
