@@ -21,7 +21,7 @@ info:
 <div style="position: fixed; bottom: 10px; right: 10px; font-size: 12px; color: #888;">
   RelicHunt3r
 </div>
-<iframe src="https://ya.ru"></iframe>
+<test src="https://ya.ru"></test>
 
   '
 paths:
